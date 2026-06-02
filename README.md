@@ -157,14 +157,14 @@ python train.py --lol_v1
 ## Citation
 If you find our work useful for your research, please cite our paper
 ```
-@misc{xu2025iclrinterchrominanceluminanceinteraction,
-      title={ICLR: Inter-Chrominance and Luminance Interaction for Natural Color Restoration in Low-Light Image Enhancement}, 
-      author={Xin Xu and Hao Liu and Wei Liu and Wei Wang and Jiayi Wu and Kui Jiang},
-      year={2025},
-      eprint={2511.13607},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.13607}, 
+@inproceedings{xu2026iclr,
+  title={ICLR: Inter-Chrominance and Luminance Interaction for Natural Color Restoration in Low-Light Image Enhancement},
+  author={Xu, Xin and Liu, Hao and Liu, Wei and Wang, Wei and Wu, Jiayi and Jiang, Kui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={14},
+  pages={11415--11423},
+  year={2026}
 }
 ```
 
