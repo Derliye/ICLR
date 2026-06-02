@@ -3,6 +3,7 @@
 <div align="center">
   
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2511.13607)
+[![AAAI](https://img.shields.io/badge/AAAI-Paper-blue.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/38123)
 
 </div>
 
